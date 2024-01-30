@@ -1,0 +1,35 @@
+[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3JThis is a Demo Title
+> [1]Option 1
+  [2]Option 2
+  [3]Option 3
+  [q]quit
+
+Use the arrow keys to move, Enter/Hotkey to select.
+
+
+This is a Demo Title
+> [1]Option 1
+  [2]Option 2
+  [3]Option 3
+  [q]quit
+
+Use the arrow keys to move, Enter/Hotkey to select.
+
+
+
+
+This is a Demo Title
+> [1]Option 1
+  [2]Option 2
+  [3]Option 3
+  [q]quit
+
+Use the arrow keys to move, Enter/Hotkey to select.
+This is a Demo Title
+  [1]Option 1
+  [2]Option 2
+  [3]Option 3
+> [q]quit
+
+Use the arrow keys to move, Enter/Hotkey to select.
+You selected option 4: [q]quit
